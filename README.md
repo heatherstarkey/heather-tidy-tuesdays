@@ -1,2 +1,3 @@
 # heather-tidy-tuesdays
-Stretching my data visualation skills using R
+A place to stretch my data visualation skills using R.
+See the repository https://github.com/rfordatascience/tidytuesday for more information
